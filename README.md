@@ -19,4 +19,11 @@ Estudante de Engenharia de Software
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LARYBINO&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div>
+  <a href="https://github.com/larybino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LARYBINO&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LARYBINO&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+</div>
+
+
